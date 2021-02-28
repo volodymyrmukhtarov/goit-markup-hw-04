@@ -498,6 +498,9 @@ button {
   fill: var(--white-color);
   background: rgba(255, 255, 255, 0.1);
 }
+.footer-icon {
+  width: 20px;
+}
 .footer-social-item:hover .social-list-icon,
 .footer-social-item:focus .social-list-icon {
   fill: #ffffff;
