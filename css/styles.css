@@ -117,9 +117,7 @@ button {
   border-radius: 2px;
   background-color: var(--accent-color);
 }
-.nav-links .current {
-  color: var(--accent-color);
-}
+
 .nav-links {
   display: block;
   font-family: Roboto;
@@ -167,6 +165,9 @@ button {
 .contacts-link:hover .contacts-icon-phone,
 .contacts-link:focus .contacts-icon-phone {
   fill: var(--accent-color);
+}
+.current {
+  color: var(--accent-color);
 }
 /* ====== HERO ======= */
 
